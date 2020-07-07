@@ -17,6 +17,7 @@ public class Child
 		try
 		{
 			obj.load("Computer Graphics.pdf");
+			// You can select your own pdf in the corresponding directory
 			System.out.println("Number of pages "+obj.getPageCount());
 			obj.close();
 			
