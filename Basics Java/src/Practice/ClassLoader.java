@@ -5,7 +5,10 @@ class B
 	{
 		Class obj = B.class;
 		System.out.println(obj.getClassLoader());
+		// Output is java Class Loader
 		System.out.println(String.class.getClassLoader());
+		// This will produce null because "String" is in-built class.
+		//You can creaqte you own Class Loader by inheriting "ClassLoader" class.
 		
 	}
 }
