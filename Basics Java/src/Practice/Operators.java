@@ -14,11 +14,12 @@ class Operators
 		System.out.println("++x="+ ++x);
 		System.out.println(x++ + ++x);
 		System.out.println("~x="+ ~x);
-		System.out.println(x+y);
-		System.out.println(x*y);
-		System.out.println(x-y);
-		System.out.println(x/y);
-		System.out.println(x%y);
+		System.out.println(x + y);
+		System.out.println(x * y);
+		System.out.println(x - y);
+		System.out.println(x / y);
+		System.out.println(x % y);
+		
 		
 	}
 }
