@@ -3,7 +3,7 @@ Some random java programs
 
 ## Table of contents:
 
-1. [Basic Fundamentals](https://github.com/siddarthjha/Java-Programs/tree/master/Basics%20Java/src) 
+1. [Basic Fundamentals](https://github.com/siddarthjha/Java-Programs/blob/master/Basics%20Java/src/README.md) 
 2. [Collections](https://github.com/siddarthjha/Java-Programs/tree/master/Collections/src) 
 3. [Event Listeners](https://github.com/siddarthjha/Java-Programs/tree/master/Event%20Listeners)
 4. [Exceptions](https://github.com/siddarthjha/Java-Programs/tree/master/Exception)
