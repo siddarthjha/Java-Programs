@@ -5,6 +5,7 @@ public class Strictfp
 {	
 	static public void main(String[] args)
 	{
+		// Can be applied on class, method, Interface.
 		Strictfp obj = new Strictfp();
 		float c = obj.add(1.254f, 2.367f);
 		System.out.println(c);
