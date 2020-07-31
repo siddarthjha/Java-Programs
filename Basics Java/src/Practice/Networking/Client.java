@@ -1,6 +1,8 @@
 /*
   TODO: Create a client and send a meesage to server.
 */
+import java.io.*;  
+import java.net.*; 
 public class Client 
 {  
 	public static void main(String[] args) 
