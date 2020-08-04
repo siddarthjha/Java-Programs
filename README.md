@@ -13,4 +13,5 @@ Some random java programs
 8. [Swings](https://github.com/siddarthjha/Java-Programs/tree/master/Swings)
 9. [Threads](https://github.com/siddarthjha/Java-Programs/tree/master/Thread)
 10. [Video Reader](https://github.com/siddarthjha/Java-Programs/tree/master/video)
+11. [Problems](https://github.com/siddarthjha/Java-Programs/tree/master/Basics%20Java/src/Practice/Problems)
 
