@@ -15,3 +15,12 @@ Some random java programs
 10. [Video Reader](https://github.com/siddarthjha/Java-Programs/tree/master/video)
 11. [Problems](https://github.com/siddarthjha/Java-Programs/tree/master/Basics%20Java/src/Practice/Problems)
 
+
+## How to Contribute
+
+This is an open project and contribution in all forms are welcomed.
+Please follow these [Contribution Guidelines](CONTRIBUTING.md)
+
+## Code of Conduct
+
+Adhere to the GitHub specified community [code](CODE_OF_CONDUCT.md).
