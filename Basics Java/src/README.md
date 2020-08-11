@@ -1,6 +1,6 @@
 # Table of Sub-Content:
 1. [Class Loader](ClassLoader.java)
-2. [Operators](Basics%20Java/src/Practice/Operators.java)
+2. [Operators](Operators.java)
 3. [super Keyword](Basics%20Java/src/Practice/Super.java)
 4. [strictfp Keyword](Basics%20Java/src/Practice/Strictfp.java)
 5. [transient Keyword (Serialization)](Basics%20Java/Transient/Transient.java)
