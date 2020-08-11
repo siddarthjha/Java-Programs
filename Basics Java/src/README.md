@@ -1,5 +1,5 @@
 # Table of Sub-Content:
-1. [Class Loader](Basics%20Java/src/Practice/ClassLoader.java)
+1. [Class Loader](ClassLoader.java)
 2. [Operators](Basics%20Java/src/Practice/Operators.java)
 3. [super Keyword](Basics%20Java/src/Practice/Super.java)
 4. [strictfp Keyword](Basics%20Java/src/Practice/Strictfp.java)
