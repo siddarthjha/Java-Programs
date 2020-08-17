@@ -13,7 +13,7 @@ Some random java programs
 8. [Swings](Swings)
 9. [Threads](Thread)
 10. [Video Reader](video)
-11. [Problems](Problems)
+11. [Problems](Basics%20Java/src/Practice/Problems)
 
 
 ## How to Contribute
